@@ -53,3 +53,23 @@ facilitated easier database management and querying.
 
 Collaboration: Enhanced collaboration among data engineers and analysts
 through standardized data preparation workflows.
+
+
+### Project Scope
+**Data Extraction**:
+
+Spark Context Engine: Setup a Spark Context Engine for distributed computing.
+
+Load CSV: Use PySpark to load the CSV file into a Spark DataFrame.
+
+**Data Transformation:**
+
+Data Cleaning: Utilize PySpark to clean and preprocess the dataset, handling missing values, duplicates, and
+inconsistencies.
+
+Normalization: Transform the dataset into a suitable normalized form (2NF or 3NF) for database storage.
+
+**Data Loading:**
+
+PostgreSQL Server: Load the cleaned and normalized dataset into a PostgreSQL server for further analysis and
+reporting.
